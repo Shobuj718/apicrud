@@ -7,4 +7,5 @@
 ## Insert Data
 
 - Insert student data into database using postman .
-![alt text](https://github.com/Shobuj718/apicrud/public/image/insert data.PNG)
+
+<img src="https://github.com/Shobuj718/apicrud/public/image/insert data.PNG">
