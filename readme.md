@@ -1,8 +1,15 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 
-## Laravel Simple API CRUD
+## Laravel Simple API CRUD and follow below instruction
 
+## Installation Instruction
+
+- Clone the Repo.
+- Run 'composer install'
+- Run 'cd apicrud'
+- Run 'cp .env.example .env' and change database information
+- Run 'php artisan migrate'
 
 ## Insert Data
 
